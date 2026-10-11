@@ -1,0 +1,48 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.portofino.launcher"
+>
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false"
+    />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false"
+    />
+
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent>
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+            <category
+                android:name="android.intent.category.LEANBACK_LAUNCHER"
+            />
+        </intent>
+    </queries>
+
+    <application
+        android:label="Portofino"
+        android:theme="@android:style/Theme.Material.NoActionBar"
+    >
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:stateNotNeeded="true"
+            android:resumeWhilePausing="true"
+            android:screenOrientation="landscape"
+        >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
