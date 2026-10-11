@@ -7,7 +7,7 @@ APP_ID := com.portofino.launcher
 ACTIVITY := $(APP_ID)/.MainActivity
 
 .PHONY: help build install run deploy restart uninstall clean \
-        rebuild devices logs crash test
+        rebuild devices logs crash test release
 
 help:
 	@grep -E '^[a-zA-Z_-]+:.*##' $(MAKEFILE_LIST) | \
@@ -47,3 +47,6 @@ crash:
 
 test:
 	$(GRADLE) testDebugUnitTest
+
+release:
+	$(GRADLE) installRelease

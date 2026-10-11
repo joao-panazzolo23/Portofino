@@ -3,10 +3,6 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 
-dependencies {
-    implementation("androidx.recyclerview:recyclerview:1.3.2")
-}
-
 android {
     namespace = "com.portofino.launcher"
     compileSdk = 36
@@ -19,10 +15,23 @@ android {
         versionName = "0.1"
     }
 
+    buildTypes {
+        release {
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"))
+            signingConfig = signingConfigs.getByName("debug")
+        }
+    }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
 
     kotlinOptions { jvmTarget = "17" }
+}
+
+dependencies {
+    implementation("androidx.recyclerview:recyclerview:1.3.2")
 }

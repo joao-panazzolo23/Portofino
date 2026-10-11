@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.portofino.launcher"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-feature
+11-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:6:5-9:7
+12        android:name="android.software.leanback"
+12-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:7:9-49
+13        android:required="false" />
+13-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:8:9-33
+14    <uses-feature
+14-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:10:5-13:7
+15        android:name="android.hardware.touchscreen"
+15-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:11:9-52
+16        android:required="false" />
+16-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:12:9-33
+17
+18    <queries>
+18-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:15:5-26:15
+19        <intent>
+19-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:16:9-19:18
+20            <action android:name="android.intent.action.MAIN" />
+20-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:17:13-65
+20-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:17:21-62
+21
+22            <category android:name="android.intent.category.LAUNCHER" />
+22-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:18:13-73
+22-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:18:23-70
+23        </intent>
+24        <intent>
+24-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:20:9-25:18
+25            <action android:name="android.intent.action.MAIN" />
+25-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:17:13-65
+25-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:17:21-62
+26
+27            <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+27-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:22:13-24:15
+27-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:23:17-73
+28        </intent>
+29    </queries>
+30
+31    <application
+31-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:28:5-47:19
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.7.0] /home/john/.gradle/caches/8.14/transforms/14c16944fb7de2698ba530e49f99e388/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+33        android:extractNativeLibs="false"
+34        android:label="Portofino"
+34-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:29:9-34
+35        android:theme="@android:style/Theme.Material.NoActionBar" >
+35-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:30:9-66
+36        <activity
+36-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:33:9-46:20
+37            android:name="com.portofino.launcher.MainActivity"
+37-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:34:13-41
+38            android:exported="true"
+38-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:35:13-36
+39            android:launchMode="singleTask"
+39-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:36:13-44
+40            android:resumeWhilePausing="true"
+40-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:38:13-46
+41            android:screenOrientation="landscape"
+41-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:39:13-50
+42            android:stateNotNeeded="true" >
+42-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:37:13-42
+43            <intent-filter>
+43-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:41:13-45:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:17:13-65
+44-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:17:21-62
+45
+46                <category android:name="android.intent.category.HOME" />
+46-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:43:17-73
+46-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:43:27-70
+47                <category android:name="android.intent.category.DEFAULT" />
+47-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:44:17-76
+47-->/home/john/projects/Portofino/app/src/main/AndroidManifest.xml:44:27-73
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>

@@ -1,0 +1,367 @@
+Marking id:pooling_container_listener_holder_tag:2131034171 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_screen_reader_focusable:2131034181 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_accessibility_heading:2131034176 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_accessibility_pane_title:2131034177 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_state_description:2131034182 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_accessibility_clickable_spans:2131034175 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:accessibility_action_clickable_span:2131034112 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_accessibility_actions:2131034174 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking attr:recyclerViewStyle:2130771989 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking dimen:fastscroll_default_thickness:2130903047 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking dimen:fastscroll_minimum_range:2130903049 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking dimen:fastscroll_margin:2130903048 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:is_pooling_container_tag:2131034158 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_unhandled_key_listeners:2131034185 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_window_insets_animation_callback:2131034186 reachable: referenced from in_memory_r8_base_classes0.dex
+Marking id:tag_on_apply_window_listener:2131034178 reachable: referenced from in_memory_r8_base_classes0.dex
+@com.portofino.launcher:attr/alpha : reachable=false
+@com.portofino.launcher:attr/fastScrollEnabled : reachable=false
+@com.portofino.launcher:attr/fastScrollHorizontalThumbDrawable : reachable=false
+@com.portofino.launcher:attr/fastScrollHorizontalTrackDrawable : reachable=false
+@com.portofino.launcher:attr/fastScrollVerticalThumbDrawable : reachable=false
+@com.portofino.launcher:attr/fastScrollVerticalTrackDrawable : reachable=false
+@com.portofino.launcher:attr/font : reachable=false
+@com.portofino.launcher:attr/fontProviderAuthority : reachable=false
+@com.portofino.launcher:attr/fontProviderCerts : reachable=false
+@com.portofino.launcher:attr/fontProviderFetchStrategy : reachable=false
+@com.portofino.launcher:attr/fontProviderFetchTimeout : reachable=false
+@com.portofino.launcher:attr/fontProviderPackage : reachable=false
+@com.portofino.launcher:attr/fontProviderQuery : reachable=false
+@com.portofino.launcher:attr/fontProviderSystemFontFamily : reachable=false
+@com.portofino.launcher:attr/fontStyle : reachable=false
+@com.portofino.launcher:attr/fontVariationSettings : reachable=false
+@com.portofino.launcher:attr/fontWeight : reachable=false
+@com.portofino.launcher:attr/lStar : reachable=false
+@com.portofino.launcher:attr/layoutManager : reachable=false
+@com.portofino.launcher:attr/nestedScrollViewStyle : reachable=false
+@com.portofino.launcher:attr/queryPatterns : reachable=false
+@com.portofino.launcher:attr/recyclerViewStyle : reachable=true
+@com.portofino.launcher:attr/reverseLayout : reachable=false
+@com.portofino.launcher:attr/shortcutMatchRequired : reachable=false
+@com.portofino.launcher:attr/spanCount : reachable=false
+@com.portofino.launcher:attr/stackFromEnd : reachable=false
+@com.portofino.launcher:attr/ttcIndex : reachable=false
+@com.portofino.launcher:color/androidx_core_ripple_material_light : reachable=false
+@com.portofino.launcher:color/androidx_core_secondary_text_default_material_light : reachable=false
+@com.portofino.launcher:color/notification_action_color_filter : reachable=false
+    @com.portofino.launcher:color/androidx_core_secondary_text_default_material_light
+@com.portofino.launcher:color/notification_icon_bg_color : reachable=false
+@com.portofino.launcher:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.portofino.launcher:dimen/compat_button_inset_vertical_material : reachable=false
+@com.portofino.launcher:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.portofino.launcher:dimen/compat_button_padding_vertical_material : reachable=false
+@com.portofino.launcher:dimen/compat_control_corner_material : reachable=false
+@com.portofino.launcher:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.portofino.launcher:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.portofino.launcher:dimen/fastscroll_default_thickness : reachable=true
+@com.portofino.launcher:dimen/fastscroll_margin : reachable=true
+@com.portofino.launcher:dimen/fastscroll_minimum_range : reachable=true
+@com.portofino.launcher:dimen/item_touch_helper_max_drag_scroll_per_frame : reachable=false
+@com.portofino.launcher:dimen/item_touch_helper_swipe_escape_max_velocity : reachable=false
+@com.portofino.launcher:dimen/item_touch_helper_swipe_escape_velocity : reachable=false
+@com.portofino.launcher:dimen/notification_action_icon_size : reachable=false
+@com.portofino.launcher:dimen/notification_action_text_size : reachable=false
+@com.portofino.launcher:dimen/notification_big_circle_margin : reachable=false
+@com.portofino.launcher:dimen/notification_content_margin_start : reachable=false
+@com.portofino.launcher:dimen/notification_large_icon_height : reachable=false
+@com.portofino.launcher:dimen/notification_large_icon_width : reachable=false
+@com.portofino.launcher:dimen/notification_main_column_padding_top : reachable=false
+@com.portofino.launcher:dimen/notification_media_narrow_margin : reachable=false
+@com.portofino.launcher:dimen/notification_right_icon_size : reachable=false
+@com.portofino.launcher:dimen/notification_right_side_padding_top : reachable=false
+@com.portofino.launcher:dimen/notification_small_icon_background_padding : reachable=false
+@com.portofino.launcher:dimen/notification_small_icon_size_as_large : reachable=false
+@com.portofino.launcher:dimen/notification_subtext_size : reachable=false
+@com.portofino.launcher:dimen/notification_top_pad : reachable=false
+@com.portofino.launcher:dimen/notification_top_pad_large_text : reachable=false
+@com.portofino.launcher:drawable/notification_action_background : reachable=false
+    @com.portofino.launcher:color/androidx_core_ripple_material_light
+    @com.portofino.launcher:dimen/compat_button_inset_horizontal_material
+    @com.portofino.launcher:dimen/compat_button_inset_vertical_material
+    @com.portofino.launcher:dimen/compat_control_corner_material
+    @com.portofino.launcher:dimen/compat_button_padding_vertical_material
+    @com.portofino.launcher:dimen/compat_button_padding_horizontal_material
+@com.portofino.launcher:drawable/notification_bg : reachable=false
+    @com.portofino.launcher:drawable/notification_bg_normal_pressed
+    @com.portofino.launcher:drawable/notification_bg_normal
+@com.portofino.launcher:drawable/notification_bg_low : reachable=false
+    @com.portofino.launcher:drawable/notification_bg_low_pressed
+    @com.portofino.launcher:drawable/notification_bg_low_normal
+@com.portofino.launcher:drawable/notification_bg_low_normal : reachable=false
+@com.portofino.launcher:drawable/notification_bg_low_pressed : reachable=false
+@com.portofino.launcher:drawable/notification_bg_normal : reachable=false
+@com.portofino.launcher:drawable/notification_bg_normal_pressed : reachable=false
+@com.portofino.launcher:drawable/notification_icon_background : reachable=false
+    @com.portofino.launcher:color/notification_icon_bg_color
+@com.portofino.launcher:drawable/notification_template_icon_bg : reachable=false
+@com.portofino.launcher:drawable/notification_template_icon_low_bg : reachable=false
+@com.portofino.launcher:drawable/notification_tile_bg : reachable=false
+    @com.portofino.launcher:drawable/notify_panel_notification_icon_bg
+@com.portofino.launcher:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.portofino.launcher:id/accessibility_action_clickable_span : reachable=true
+@com.portofino.launcher:id/accessibility_custom_action_0 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_1 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_10 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_11 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_12 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_13 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_14 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_15 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_16 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_17 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_18 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_19 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_2 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_20 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_21 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_22 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_23 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_24 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_25 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_26 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_27 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_28 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_29 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_3 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_30 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_31 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_4 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_5 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_6 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_7 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_8 : reachable=false
+@com.portofino.launcher:id/accessibility_custom_action_9 : reachable=false
+@com.portofino.launcher:id/action_container : reachable=false
+@com.portofino.launcher:id/action_divider : reachable=false
+@com.portofino.launcher:id/action_image : reachable=false
+@com.portofino.launcher:id/action_text : reachable=false
+@com.portofino.launcher:id/actions : reachable=false
+@com.portofino.launcher:id/async : reachable=false
+@com.portofino.launcher:id/blocking : reachable=false
+@com.portofino.launcher:id/chronometer : reachable=false
+@com.portofino.launcher:id/dialog_button : reachable=false
+@com.portofino.launcher:id/forever : reachable=false
+@com.portofino.launcher:id/icon : reachable=false
+@com.portofino.launcher:id/icon_group : reachable=false
+@com.portofino.launcher:id/info : reachable=false
+@com.portofino.launcher:id/is_pooling_container_tag : reachable=true
+@com.portofino.launcher:id/italic : reachable=false
+@com.portofino.launcher:id/item1 : reachable=false
+@com.portofino.launcher:id/item2 : reachable=false
+@com.portofino.launcher:id/item3 : reachable=false
+@com.portofino.launcher:id/item4 : reachable=false
+@com.portofino.launcher:id/item_touch_helper_previous_elevation : reachable=false
+@com.portofino.launcher:id/line1 : reachable=false
+@com.portofino.launcher:id/line3 : reachable=false
+@com.portofino.launcher:id/normal : reachable=false
+@com.portofino.launcher:id/notification_background : reachable=false
+@com.portofino.launcher:id/notification_main_column : reachable=false
+@com.portofino.launcher:id/notification_main_column_container : reachable=false
+@com.portofino.launcher:id/pooling_container_listener_holder_tag : reachable=true
+@com.portofino.launcher:id/right_icon : reachable=false
+@com.portofino.launcher:id/right_side : reachable=false
+@com.portofino.launcher:id/tag_accessibility_actions : reachable=true
+@com.portofino.launcher:id/tag_accessibility_clickable_spans : reachable=true
+@com.portofino.launcher:id/tag_accessibility_heading : reachable=true
+@com.portofino.launcher:id/tag_accessibility_pane_title : reachable=true
+@com.portofino.launcher:id/tag_on_apply_window_listener : reachable=true
+@com.portofino.launcher:id/tag_on_receive_content_listener : reachable=false
+@com.portofino.launcher:id/tag_on_receive_content_mime_types : reachable=false
+@com.portofino.launcher:id/tag_screen_reader_focusable : reachable=true
+@com.portofino.launcher:id/tag_state_description : reachable=true
+@com.portofino.launcher:id/tag_transition_group : reachable=false
+@com.portofino.launcher:id/tag_unhandled_key_event_manager : reachable=false
+@com.portofino.launcher:id/tag_unhandled_key_listeners : reachable=true
+@com.portofino.launcher:id/tag_window_insets_animation_callback : reachable=true
+@com.portofino.launcher:id/text : reachable=false
+@com.portofino.launcher:id/text2 : reachable=false
+@com.portofino.launcher:id/time : reachable=false
+@com.portofino.launcher:id/title : reachable=false
+@com.portofino.launcher:id/view_tree_lifecycle_owner : reachable=false
+@com.portofino.launcher:integer/status_bar_notification_info_maxnum : reachable=false
+@com.portofino.launcher:layout/custom_dialog : reachable=false
+@com.portofino.launcher:layout/notification_action : reachable=false
+    @com.portofino.launcher:style/Widget_Compat_NotificationActionContainer
+    @com.portofino.launcher:dimen/notification_action_icon_size
+    @com.portofino.launcher:style/Widget_Compat_NotificationActionText
+@com.portofino.launcher:layout/notification_action_tombstone : reachable=false
+    @com.portofino.launcher:style/Widget_Compat_NotificationActionContainer
+    @com.portofino.launcher:dimen/notification_action_icon_size
+    @com.portofino.launcher:style/Widget_Compat_NotificationActionText
+@com.portofino.launcher:layout/notification_template_custom_big : reachable=false
+    @com.portofino.launcher:layout/notification_template_icon_group
+    @com.portofino.launcher:dimen/notification_large_icon_width
+    @com.portofino.launcher:dimen/notification_large_icon_height
+    @com.portofino.launcher:dimen/notification_right_side_padding_top
+    @com.portofino.launcher:layout/notification_template_part_time
+    @com.portofino.launcher:layout/notification_template_part_chronometer
+    @com.portofino.launcher:style/TextAppearance_Compat_Notification_Info
+@com.portofino.launcher:layout/notification_template_icon_group : reachable=false
+    @com.portofino.launcher:dimen/notification_large_icon_width
+    @com.portofino.launcher:dimen/notification_large_icon_height
+    @com.portofino.launcher:dimen/notification_big_circle_margin
+    @com.portofino.launcher:dimen/notification_right_icon_size
+@com.portofino.launcher:layout/notification_template_part_chronometer : reachable=false
+    @com.portofino.launcher:style/TextAppearance_Compat_Notification_Time
+@com.portofino.launcher:layout/notification_template_part_time : reachable=false
+    @com.portofino.launcher:style/TextAppearance_Compat_Notification_Time
+@com.portofino.launcher:menu/example_menu : reachable=false
+@com.portofino.launcher:menu/example_menu2 : reachable=false
+@com.portofino.launcher:string/status_bar_notification_info_overflow : reachable=false
+@com.portofino.launcher:style/TextAppearance_Compat_Notification : reachable=false
+@com.portofino.launcher:style/TextAppearance_Compat_Notification_Info : reachable=false
+@com.portofino.launcher:style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @com.portofino.launcher:style/TextAppearance_Compat_Notification_Info
+@com.portofino.launcher:style/TextAppearance_Compat_Notification_Time : reachable=false
+@com.portofino.launcher:style/TextAppearance_Compat_Notification_Title : reachable=false
+@com.portofino.launcher:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.portofino.launcher:drawable/notification_action_background
+@com.portofino.launcher:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.portofino.launcher:color/androidx_core_secondary_text_default_material_light
+    @com.portofino.launcher:dimen/notification_action_text_size
+
+The root reachable resources are:
+ attr:recyclerViewStyle:2130771989
+ dimen:fastscroll_default_thickness:2130903047
+ dimen:fastscroll_margin:2130903048
+ dimen:fastscroll_minimum_range:2130903049
+ id:accessibility_action_clickable_span:2131034112
+ id:is_pooling_container_tag:2131034158
+ id:pooling_container_listener_holder_tag:2131034171
+ id:tag_accessibility_actions:2131034174
+ id:tag_accessibility_clickable_spans:2131034175
+ id:tag_accessibility_heading:2131034176
+ id:tag_accessibility_pane_title:2131034177
+ id:tag_on_apply_window_listener:2131034178
+ id:tag_screen_reader_focusable:2131034181
+ id:tag_state_description:2131034182
+ id:tag_unhandled_key_listeners:2131034185
+ id:tag_window_insets_animation_callback:2131034186
+Unused resources are: 
+ color:androidx_core_ripple_material_light:2130837504
+ color:androidx_core_secondary_text_default_material_light:2130837505
+ color:notification_action_color_filter:2130837506
+ color:notification_icon_bg_color:2130837507
+ dimen:compat_button_inset_horizontal_material:2130903040
+ dimen:compat_button_inset_vertical_material:2130903041
+ dimen:compat_button_padding_horizontal_material:2130903042
+ dimen:compat_button_padding_vertical_material:2130903043
+ dimen:compat_control_corner_material:2130903044
+ dimen:compat_notification_large_icon_max_height:2130903045
+ dimen:compat_notification_large_icon_max_width:2130903046
+ dimen:item_touch_helper_max_drag_scroll_per_frame:2130903050
+ dimen:item_touch_helper_swipe_escape_max_velocity:2130903051
+ dimen:item_touch_helper_swipe_escape_velocity:2130903052
+ dimen:notification_action_icon_size:2130903053
+ dimen:notification_action_text_size:2130903054
+ dimen:notification_big_circle_margin:2130903055
+ dimen:notification_content_margin_start:2130903056
+ dimen:notification_large_icon_height:2130903057
+ dimen:notification_large_icon_width:2130903058
+ dimen:notification_main_column_padding_top:2130903059
+ dimen:notification_media_narrow_margin:2130903060
+ dimen:notification_right_icon_size:2130903061
+ dimen:notification_right_side_padding_top:2130903062
+ dimen:notification_small_icon_background_padding:2130903063
+ dimen:notification_small_icon_size_as_large:2130903064
+ dimen:notification_subtext_size:2130903065
+ dimen:notification_top_pad:2130903066
+ dimen:notification_top_pad_large_text:2130903067
+ drawable:notification_action_background:2130968576
+ drawable:notification_bg:2130968577
+ drawable:notification_bg_low:2130968578
+ drawable:notification_bg_low_normal:2130968579
+ drawable:notification_bg_low_pressed:2130968580
+ drawable:notification_bg_normal:2130968581
+ drawable:notification_bg_normal_pressed:2130968582
+ drawable:notification_icon_background:2130968583
+ drawable:notification_template_icon_bg:2130968584
+ drawable:notification_template_icon_low_bg:2130968585
+ drawable:notification_tile_bg:2130968586
+ drawable:notify_panel_notification_icon_bg:2130968587
+ id:accessibility_custom_action_0:2131034113
+ id:accessibility_custom_action_1:2131034114
+ id:accessibility_custom_action_10:2131034115
+ id:accessibility_custom_action_11:2131034116
+ id:accessibility_custom_action_12:2131034117
+ id:accessibility_custom_action_13:2131034118
+ id:accessibility_custom_action_14:2131034119
+ id:accessibility_custom_action_15:2131034120
+ id:accessibility_custom_action_16:2131034121
+ id:accessibility_custom_action_17:2131034122
+ id:accessibility_custom_action_18:2131034123
+ id:accessibility_custom_action_19:2131034124
+ id:accessibility_custom_action_2:2131034125
+ id:accessibility_custom_action_20:2131034126
+ id:accessibility_custom_action_21:2131034127
+ id:accessibility_custom_action_22:2131034128
+ id:accessibility_custom_action_23:2131034129
+ id:accessibility_custom_action_24:2131034130
+ id:accessibility_custom_action_25:2131034131
+ id:accessibility_custom_action_26:2131034132
+ id:accessibility_custom_action_27:2131034133
+ id:accessibility_custom_action_28:2131034134
+ id:accessibility_custom_action_29:2131034135
+ id:accessibility_custom_action_3:2131034136
+ id:accessibility_custom_action_30:2131034137
+ id:accessibility_custom_action_31:2131034138
+ id:accessibility_custom_action_4:2131034139
+ id:accessibility_custom_action_5:2131034140
+ id:accessibility_custom_action_6:2131034141
+ id:accessibility_custom_action_7:2131034142
+ id:accessibility_custom_action_8:2131034143
+ id:accessibility_custom_action_9:2131034144
+ id:action_container:2131034145
+ id:action_divider:2131034146
+ id:action_image:2131034147
+ id:action_text:2131034148
+ id:actions:2131034149
+ id:async:2131034150
+ id:blocking:2131034151
+ id:chronometer:2131034152
+ id:dialog_button:2131034153
+ id:forever:2131034154
+ id:icon:2131034155
+ id:icon_group:2131034156
+ id:info:2131034157
+ id:italic:2131034159
+ id:item1:2131034160
+ id:item2:2131034161
+ id:item3:2131034162
+ id:item4:2131034163
+ id:item_touch_helper_previous_elevation:2131034164
+ id:line1:2131034165
+ id:line3:2131034166
+ id:normal:2131034167
+ id:notification_background:2131034168
+ id:notification_main_column:2131034169
+ id:notification_main_column_container:2131034170
+ id:right_icon:2131034172
+ id:right_side:2131034173
+ id:tag_on_receive_content_listener:2131034179
+ id:tag_on_receive_content_mime_types:2131034180
+ id:tag_transition_group:2131034183
+ id:tag_unhandled_key_event_manager:2131034184
+ id:text:2131034187
+ id:text2:2131034188
+ id:time:2131034189
+ id:title:2131034190
+ id:view_tree_lifecycle_owner:2131034191
+ integer:status_bar_notification_info_maxnum:2131099648
+ layout:custom_dialog:2131165184
+ layout:notification_action:2131165185
+ layout:notification_action_tombstone:2131165186
+ layout:notification_template_custom_big:2131165187
+ layout:notification_template_icon_group:2131165188
+ layout:notification_template_part_chronometer:2131165189
+ layout:notification_template_part_time:2131165190
+ menu:example_menu:2131230720
+ menu:example_menu2:2131230721
+ string:status_bar_notification_info_overflow:2131296256
+ style:TextAppearance_Compat_Notification:2131361792
+ style:TextAppearance_Compat_Notification_Info:2131361793
+ style:TextAppearance_Compat_Notification_Line2:2131361794
+ style:TextAppearance_Compat_Notification_Time:2131361795
+ style:TextAppearance_Compat_Notification_Title:2131361796
+ style:Widget_Compat_NotificationActionContainer:2131361797
+ style:Widget_Compat_NotificationActionText:2131361798
